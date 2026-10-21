@@ -15,3 +15,7 @@ I am a student studying at upGrad SOT , learning Git and making its workflow pro
 
 - Git-repo1: workflow project 1
 - Git-repo2: workflow project 2
+
+## Social Links
+-GitHub: https://github.com/hitanshjain-prog
+-LinkedIn: 
